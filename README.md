@@ -26,8 +26,7 @@
 ### 1. 🌐 Responsive Business Website
 **Description**: A mobile-first website for a local business, featuring animated CTAs and contact form.  
 **Technologies**: HTML5, CSS3, JavaScript, Bootstrap  
-**Links**: "C:\Users\sinal\Videos\Captures\Bookstore - Welcome - Google Chrome 5_23_2025 10_08_15 PM.png"
-
+**Links**:  [Live Demo](https://youtu.be/KtvQ5jm7zI0)
 ### 2. ❓ Interactive Quiz App 
 **Description**: A timed multiple-choice quiz with score tracking and feedback system.  
 **Technologies**: JavaScript, Local Storage API, CSS Animations  
