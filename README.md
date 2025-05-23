@@ -35,7 +35,7 @@
 ### 3. 🎭 Portfolio Redesign (Concept)
 **Description**: UI/UX redesign concept for an artist portfolio, created in Figma.  
 **Technologies**: Figma, UI Design Principles  
-**Links**: https://www.figma.com/files/team/1362447445818161234/recents-and-sharing?fuid=1362447441605570620
+**Links**: (https://www.figma.com/files/team/1362447445818161234/recents-and-sharing?fuid=1362447441605570620)
 
 ## 📜 Certifications & Training  
 - 🎓 **Work Readiness Training in Multimedia & Front-End Development** 
