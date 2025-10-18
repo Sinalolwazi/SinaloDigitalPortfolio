@@ -52,7 +52,7 @@ My name is **Sinalo Kebetwan**, and this portfolio showcases my growth, learning
 *Full Mock Interview Transcript & Feedback Form*  
 - Conducted a 30-minute virtual mock interview with a career coach.  
 - Received structured feedback on body language, content, and professionalism.  
-   [View Transcript & Feedback](https://sinalokebetwan.workreadinessportfolio.com/artefacts/mock-interview-feedback.pdf)
+   [View Transcript & Feedback](https://github.com/wil-it2025/cv-tutorial-Sinalolwazi/blob/main/20250321%20171809%5B1%5D_preview.mp4)
 
 ### **Reflection (STAR Technique)**  
 - **Situation**: Participated in a realistic job interview simulation for an entry-level marketing role.  
