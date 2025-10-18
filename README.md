@@ -1,31 +1,25 @@
-**Digital Portfolio for Sinalo Kebetwan**  
+## Sinalo Kebetwan 
 **Work Readiness Training E-Portfolio**  
 *Created in alignment with the four-step e-portfolio framework: Collect → Select → Reflect → Connect*
 
-🔗 **Portfolio Link**: [https://sinalokebetwan.workreadinessportfolio.com](https://sinalokebetwanaportfolio.netlify.app/)  
+ **Portfolio Link**: [https://sinalokebetwan.workreadinessportfolio.com](https://sinalokebetwanaportfolio.netlify.app/)  
 
 ---
 
-## 📘 **Introduction**
+## **Introduction**
 
 Welcome to my Work Readiness Training e-portfolio!  
 My name is **Sinalo Kebetwan**, and this portfolio showcases my growth, learning, and readiness for the professional world. Through structured reflection using the **STAR technique** (Situation, Task, Action, Result), I demonstrate how key competencies—business communication, interview skills, professional networking, and workplace etiquette—have been developed and applied during my training.
 
-This portfolio follows the recommended e-portfolio framework:  
-1. **Collect** – I gathered artefacts from workshops, assignments, and simulations.  
-2. **Select** – I chose the most representative evidence of my learning.  
-3. **Reflect** – I used the STAR method to critically analyze each artefact.  
-4. **Connect** – I synthesized insights to show my holistic professional development.
-
 ---
 
-## 📁 **Section 1: Business Communication**
+##  **Section 1: Business Communication**
 
-### ✅ **Evidence**  
+###  **Evidence**  
 <img width="1795" height="878" alt="Screenshot 2025-10-18 201946" src="https://github.com/user-attachments/assets/796f752f-19db-4add-833a-c9cf58361b1f" />
 <img width="1786" height="845" alt="Screenshot 2025-10-18 202010" src="https://github.com/user-attachments/assets/0943344e-aedc-42dd-9c90-290cfbc5f53d" />
 
-### 💭 **Reflection (STAR Technique)**  
+###  **Reflection (STAR Technique)**  
 - **Situation**: During a communication workshop, we were tasked with managing client expectations after a project delay.  
 - **Task**: Compose a concise, empathetic, and solution-oriented email.  
 - **Action**: I applied the “You-Attitude” principle, avoided jargon, and proposed two revised deadlines.  
@@ -42,9 +36,9 @@ This portfolio follows the recommended e-portfolio framework:
 
  *Recorded Mock Interview Response – “Tell me about a time you solved a problem.”*  
 - 2-minute video response using the STAR method.  
-🔗 [Watch Video: Interview Response](https://github.com/wil-it2025/cv-tutorial-Sinalolwazi/blob/main/20250321%20171809%5B1%5D_preview.mp4)
+ [Watch Video: Interview Response](https://github.com/wil-it2025/cv-tutorial-Sinalolwazi/blob/main/20250321%20171809%5B1%5D_preview.mp4)
 
-### 💭 **Reflection (STAR Technique)**  
+### **Reflection (STAR Technique)**  
 - **Situation**: Practicing for job interviews during the career readiness module.  
 - **Task**: Deliver a compelling, structured answer to a behavioral question.  
 - **Action**: I recalled a group project conflict and framed my response using STAR. I focused on active listening and compromise.  
@@ -52,15 +46,15 @@ This portfolio follows the recommended e-portfolio framework:
 
 ---
 
-## 📁 **Section 3: Mock Interview Simulation**
+##  **Section 3: Mock Interview Simulation**
 
-### ✅ **Evidence**  
-📝 *Full Mock Interview Transcript & Feedback Form*  
+###  **Evidence**  
+*Full Mock Interview Transcript & Feedback Form*  
 - Conducted a 30-minute virtual mock interview with a career coach.  
 - Received structured feedback on body language, content, and professionalism.  
-🔗 [View Transcript & Feedback](https://sinalokebetwan.workreadinessportfolio.com/artefacts/mock-interview-feedback.pdf)
+   [View Transcript & Feedback](https://sinalokebetwan.workreadinessportfolio.com/artefacts/mock-interview-feedback.pdf)
 
-### 💭 **Reflection (STAR Technique)**  
+### **Reflection (STAR Technique)**  
 - **Situation**: Participated in a realistic job interview simulation for an entry-level marketing role.  
 - **Task**: Demonstrate readiness through answers, attire, and virtual presence.  
 - **Action**: Researched the “company,” dressed professionally, and practiced answers using STAR.  
@@ -68,9 +62,9 @@ This portfolio follows the recommended e-portfolio framework:
 
 ---
 
-## 📁 **Section 4: Professional Networking**
+##  **Section 4: Professional Networking**
 
-### ✅ **Evidence**  
+### **Evidence**  
  *LinkedIn Profile & Networking Plan*  
 - Optimized LinkedIn profile with professional photo, headline, and summary.   
   <img width="1881" height="836" alt="Screenshot 2025-10-18 212539" src="https://github.com/user-attachments/assets/715aa255-5d96-47bc-a9e4-c617d6bf7a76" />
@@ -79,7 +73,7 @@ This portfolio follows the recommended e-portfolio framework:
 
 
 
-### 💭 **Reflection (STAR Technique)**  
+### **Reflection (STAR Technique)**  
 - **Situation**: Tasked with building a professional online presence.  
 - **Task**: Develop a LinkedIn profile and outreach strategy.  
 - **Action**: I studied profiles of professionals in my field, wrote a value-driven summary, and drafted personalized connection requests.  
@@ -87,16 +81,16 @@ This portfolio follows the recommended e-portfolio framework:
 
 ---
 
-## 📁 **Section 5: Workplace Etiquette**
+## **Section 5: Workplace Etiquette**
 
-### ✅ **Evidence**  
+###  **Evidence**  
 
 <img width="1835" height="872" alt="Screenshot 2025-10-18 212907" src="https://github.com/user-attachments/assets/05386688-002d-44c3-abcc-7d3782ce7839" />
 <img width="1822" height="575" alt="Screenshot 2025-10-18 212926" src="https://github.com/user-attachments/assets/594e8d09-f88d-49d8-9bb7-000e69d06890" />
 
 
 
-### 💭 **Reflection (STAR Technique)**  
+###  **Reflection (STAR Technique)**  
 - **Situation**: Assigned to create educational material on professional conduct.  
 - **Task**: Summarize key etiquette principles in a visually engaging format.  
 - **Action**: Researched HR guidelines and interviewed a mentor about common rookie mistakes.  
@@ -104,7 +98,7 @@ This portfolio follows the recommended e-portfolio framework:
 
 ---
 
-## 🔗 **Connections Across Artefacts**
+##  **Connections Across Artefacts**
 
 All five sections reveal a common thread: **professional identity development**.  
 - My **business communication** skills support clear **interview responses**.  
@@ -115,18 +109,15 @@ This portfolio shows I am not just *trained*—I am **ready**.
 
 ---
 
-## 📌 **Conclusion**
+##  **Conclusion**
 
 Through intentional collection, critical selection, deep reflection, and meaningful connection, this e-portfolio documents my journey from student to workplace-ready professional. I am confident in my ability to communicate, collaborate, and contribute ethically and effectively in any professional environment.
 
 Thank you for reviewing my work.  
 — **Sinalo Kebetwan**
 
-📧 Contact: sinalo.kebetwan@email.com  
-📱 LinkedIn: [linkedin.com/in/sinalokebetwan](https://linkedin.com/in/sinalokebetwan)
+ Contact: sinalo.kebetwan@email.com  
+LinkedIn: [linkedin.com/in/sinalokebetwan](https://linkedin.com/in/sinalokebetwan)
 
 ---
 
-> **Note for Submission**:  
-> This portfolio would be built live on a free platform (e.g., Google Sites) with embedded documents, videos, and links. All artefacts are original and created during the Work Readiness Training program.  
-> **Total Marks Alignment**: Each of the 10 rubric criteria (5 Evidence + 5 STAR Reflections) is fully addressed at a **Proficient (100%)** level.
