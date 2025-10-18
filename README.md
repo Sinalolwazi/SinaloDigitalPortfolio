@@ -1,4 +1,4 @@
-## Sinalo Kebetwan 
+## Sinalo Kebetwana
 **Work Readiness Training E-Portfolio**  
 *Created in alignment with the four-step e-portfolio framework: Collect → Select → Reflect → Connect*
 
@@ -36,7 +36,7 @@ My name is **Sinalo Kebetwan**, and this portfolio showcases my growth, learning
 
  *Recorded Mock Interview Response – “Tell me about a time you solved a problem.”*  
 - 2-minute video response using the STAR method.  
- [Watch Video: Interview Response](https://github.com/wil-it2025/cv-tutorial-Sinalolwazi/blob/main/20250321%20171809%5B1%5D_preview.mp4)
+ [Watch Video: Interview Response](https://github.com/Sinalolwazi/SinaloDigitalPortfolio/blob/main/digital%20portfolio/mock%20interview.mp4)
 
 ### **Reflection (STAR Technique)**  
 - **Situation**: Practicing for job interviews during the career readiness module.  
